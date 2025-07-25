@@ -1,16 +1,70 @@
-<<<<<<< HEAD
-# React + Vite
+## 📝 My To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A stylish and interactive to-do list application built with **React**, styled with **Tailwind CSS**, animated using **Framer Motion**, and deployed on **GitHub Pages**. Tasks are managed with local state, and the app is fully responsive.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🔗 Live Demo
 
-## Expanding the ESLint configuration
+👉 [Click here to view the live app](https://Noopur2303.github.io/my-todo-app)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# my-todo-app
->>>>>>> de543895158b7da7fb2028a9ff6fbf1e2edbf902
+
+🚀 Features
+
+* ✅ Add, delete, and manage tasks
+* 📝 Optional task descriptions
+* 🎨 Stylish UI with Tailwind CSS
+* ✨ Smooth animations using Framer Motion
+* 🧒‍♂️ React state handling
+* ⚡ Lightning-fast with Vite
+* 🕒 Animated clock graphic for design enhancement
+
+
+ 🛠️ Tech Stack
+
+| Tech                | Purpose                |
+| --------------------| ---------------------- |
+| React               | Front-end framework    |
+| Vite                | Development build tool |
+| Tailwind CSS        | Styling                |
+| Framer Motion       | Animations             |
+| GitHub Pages        | Deployment             |
+
+---
+
+ 📈 Screenshots
+
+| Home Screen             | Add Task View           |
+| ----------------------- | ----------------------- |
+| *(add screenshot here)* | *(add screenshot here)* |
+
+---
+ 📆 Installation & Setup
+
+```bash
+git clone https://github.com/Noopur2303/my-todo-app.git
+cd my-todo-app
+npm install
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
+
+---
+ 🌐 Deployment
+
+To deploy to GitHub Pages:
+
+```bash
+npm run build
+npm run deploy
+```
+
+---
+
+👩‍💼 Author
+
+* GitHub: [@Noopur2303](https://github.com/Noopur2303)
+
+---
+
